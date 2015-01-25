@@ -327,12 +327,13 @@ div:nth-child(5) {
 <body>
 
 <body>
-
+<h1>Time</h1>
 <section id="counter">
 <div><p><p><p><p><p><p><p></div>
 <div><p><p><p><p><p><p><p></div>
 <div><p><p><p><p><p><p><p></div>
 <div><p><p><p><p><p><p><p></div>
+
 <div><a id = 'resume' href="#">Resume</a></div> 
 <div><a id ='pause' href="#counter">Pause</a></div>
 </section>
