@@ -336,6 +336,7 @@ div:nth-child(5) {
 
 <div><a id = 'resume' href="#">Resume</a></div> 
 <div><a id ='pause' href="#counter">Pause</a></div>
+<div>i love you sanjit</div>
 </section>
 
 </body>
